@@ -25,6 +25,11 @@ Eklenmesi Gerekenler
 Dokümantasyon: Proje için daha detaylı bir dokümantasyon oluşturmak, kullanıcıların kodu daha iyi anlamalarına yardımcı olacaktır.
 Test Senaryoları: Farklı test senaryoları ekleyerek, sistemin farklı koşullarda nasıl performans gösterdiğini değerlendirebilirim.
 Geri Bildirim ve Katkılar: Diğer geliştiricilerin geri bildirimleri ve katkıları, projenin daha da gelişmesine olanak tanıyacaktır.
+
+
+........................................................
+
+
 Project Overview
 Hello! I am Meriç Orhay, a graduate of Ufuk University in Computer Programming. In this project, I aimed to control the roll and pitch movements of a simulated aircraft more precisely using a PID algorithm. Additionally, I utilized a Model Predictive Control (MPC) algorithm for throttle control to enhance flight performance.
 
